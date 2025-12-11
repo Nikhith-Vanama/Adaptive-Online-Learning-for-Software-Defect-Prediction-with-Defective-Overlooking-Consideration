@@ -16,7 +16,7 @@
 
 >  Applying SMOTE ensures the model learns equally from defective and non-defective cases, thus improving recall, F1-score, and reducing the chance of defect overlooking.
 
-🔹 Random Forest Classifier
+# Random Forest Classifier
 
 Random Forest is an ensemble learning method that builds multiple decision trees during training.
 
