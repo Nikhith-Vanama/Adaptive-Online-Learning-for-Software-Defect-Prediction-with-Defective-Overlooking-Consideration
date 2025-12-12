@@ -30,7 +30,7 @@
 
 > It finds the best-fit decision boundary by optimizing weights using maximum likelihood estimation.
 
-It works well for binary and multi-class classification with linearly separable datasets.
+> It works well for binary and multi-class classification with linearly separable datasets.
 
 🔹 Decision Tree Classifier
 
