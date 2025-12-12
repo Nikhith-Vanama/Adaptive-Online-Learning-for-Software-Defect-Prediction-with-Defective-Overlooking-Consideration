@@ -24,7 +24,7 @@
 
 > It works by randomly selecting features and samples to create diverse trees, ensuring strong generalization.
 
-🔹 Logistic Regression
+# Logistic Regression
 
 Logistic Regression is a classification algorithm that models the probability of an outcome using a sigmoid function.
 
