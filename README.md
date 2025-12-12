@@ -20,7 +20,7 @@
 
 > Random Forest is an ensemble learning method that builds multiple decision trees during training.
 
-It combines the predictions of all trees (majority voting) to improve accuracy and reduce overfitting.
+> It combines the predictions of all trees (majority voting) to improve accuracy and reduce overfitting.
 
 It works by randomly selecting features and samples to create diverse trees, ensuring strong generalization.
 
