@@ -18,7 +18,7 @@
 
 # Random Forest Classifier
 
-Random Forest is an ensemble learning method that builds multiple decision trees during training.
+> Random Forest is an ensemble learning method that builds multiple decision trees during training.
 
 It combines the predictions of all trees (majority voting) to improve accuracy and reduce overfitting.
 
