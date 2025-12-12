@@ -26,7 +26,7 @@
 
 # Logistic Regression
 
-Logistic Regression is a classification algorithm that models the probability of an outcome using a sigmoid function.
+> Logistic Regression is a classification algorithm that models the probability of an outcome using a sigmoid function.
 
 It finds the best-fit decision boundary by optimizing weights using maximum likelihood estimation.
 
