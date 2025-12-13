@@ -38,7 +38,7 @@
 
 > Each split is chosen using metrics like Gini impurity or entropy to maximize information gain.
 
-It makes decisions by traversing from the root node to a leaf node representing the predicted class.
+> It makes decisions by traversing from the root node to a leaf node representing the predicted class.
 
 🔹 Support Vector Machine (SVM)
 
