@@ -36,7 +36,7 @@
 
 > A Decision Tree splits data into branches based on feature values, forming a tree-like structure.
 
-Each split is chosen using metrics like Gini impurity or entropy to maximize information gain.
+> Each split is chosen using metrics like Gini impurity or entropy to maximize information gain.
 
 It makes decisions by traversing from the root node to a leaf node representing the predicted class.
 
