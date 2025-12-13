@@ -32,7 +32,7 @@
 
 > It works well for binary and multi-class classification with linearly separable datasets.
 
-🔹 Decision Tree Classifier
+# Decision Tree Classifier
 
 A Decision Tree splits data into branches based on feature values, forming a tree-like structure.
 
