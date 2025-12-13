@@ -34,7 +34,7 @@
 
 # Decision Tree Classifier
 
-A Decision Tree splits data into branches based on feature values, forming a tree-like structure.
+> A Decision Tree splits data into branches based on feature values, forming a tree-like structure.
 
 Each split is chosen using metrics like Gini impurity or entropy to maximize information gain.
 
