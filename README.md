@@ -40,7 +40,7 @@
 
 > It makes decisions by traversing from the root node to a leaf node representing the predicted class.
 
-🔹 Support Vector Machine (SVM)
+# Support Vector Machine (SVM)
 
 SVM aims to find the optimal hyperplane that maximally separates different classes.
 
