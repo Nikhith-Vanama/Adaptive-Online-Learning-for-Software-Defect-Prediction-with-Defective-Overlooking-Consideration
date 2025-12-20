@@ -42,7 +42,7 @@
 
 # Support Vector Machine (SVM)
 
-SVM aims to find the optimal hyperplane that maximally separates different classes.
+> SVM aims to find the optimal hyperplane that maximally separates different classes.
 
 It uses support vectors (critical data points) to define the decision boundary.
 
