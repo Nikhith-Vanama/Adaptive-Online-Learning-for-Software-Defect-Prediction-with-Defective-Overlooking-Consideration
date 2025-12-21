@@ -46,7 +46,7 @@
 
 > It uses support vectors (critical data points) to define the decision boundary.
 
-With kernel functions, SVM can handle both linear and non-linear classification problems effectively.
+> With kernel functions, SVM can handle both linear and non-linear classification problems effectively.
 
 🔹 Gaussian Naive Bayes (GaussianNB)
 
