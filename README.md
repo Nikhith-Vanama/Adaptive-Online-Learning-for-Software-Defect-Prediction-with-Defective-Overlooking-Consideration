@@ -44,7 +44,7 @@
 
 > SVM aims to find the optimal hyperplane that maximally separates different classes.
 
-It uses support vectors (critical data points) to define the decision boundary.
+> It uses support vectors (critical data points) to define the decision boundary.
 
 With kernel functions, SVM can handle both linear and non-linear classification problems effectively.
 
