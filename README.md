@@ -48,7 +48,7 @@
 
 > With kernel functions, SVM can handle both linear and non-linear classification problems effectively.
 
-🔹 Gaussian Naive Bayes (GaussianNB)
+# Gaussian Naive Bayes (GaussianNB)
 
 GaussianNB applies Bayes’ theorem with the assumption that features follow a Gaussian (normal) distribution.
 
