@@ -54,7 +54,7 @@
 
 > It calculates class probabilities based on feature likelihoods and prior probabilities.
 
-It is highly efficient and works well for high-dimensional, probabilistic classification tasks.
+> It is highly efficient and works well for high-dimensional, probabilistic classification tasks.
 
 🔹 XGBoost Classifier (XGBClassifier)
 
