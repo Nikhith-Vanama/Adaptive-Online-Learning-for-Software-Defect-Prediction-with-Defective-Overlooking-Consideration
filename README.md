@@ -52,7 +52,7 @@
 
 > GaussianNB applies Bayes’ theorem with the assumption that features follow a Gaussian (normal) distribution.
 
-It calculates class probabilities based on feature likelihoods and prior probabilities.
+> It calculates class probabilities based on feature likelihoods and prior probabilities.
 
 It is highly efficient and works well for high-dimensional, probabilistic classification tasks.
 
