@@ -56,7 +56,7 @@
 
 > It is highly efficient and works well for high-dimensional, probabilistic classification tasks.
 
-🔹 XGBoost Classifier (XGBClassifier)
+# XGBoost Classifier (XGBClassifier)
 
 XGBoost is an optimized gradient boosting algorithm that builds trees sequentially to correct previous errors.
 
