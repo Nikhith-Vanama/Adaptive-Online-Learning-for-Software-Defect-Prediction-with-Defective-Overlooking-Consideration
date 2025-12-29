@@ -60,6 +60,6 @@
 
 > XGBoost is an optimized gradient boosting algorithm that builds trees sequentially to correct previous errors.
 
-It uses regularization, parallel processing, and efficient tree pruning to improve accuracy and speed.
+> It uses regularization, parallel processing, and efficient tree pruning to improve accuracy and speed.
 
 It works by minimizing a loss function using gradient descent, making it powerful for structured/tabular data.
