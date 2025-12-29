@@ -58,7 +58,7 @@
 
 # XGBoost Classifier (XGBClassifier)
 
-XGBoost is an optimized gradient boosting algorithm that builds trees sequentially to correct previous errors.
+> XGBoost is an optimized gradient boosting algorithm that builds trees sequentially to correct previous errors.
 
 It uses regularization, parallel processing, and efficient tree pruning to improve accuracy and speed.
 
